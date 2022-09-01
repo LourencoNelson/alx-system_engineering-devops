@@ -24,26 +24,7 @@ SCRIPT DESCRIPTION
 
 12-file_type: prints the type of the fiile named iamfile
 
-12-file_type: prints the type of the fiile named iamfile
+14-copy_html: copies all the HTML files from the curren dir o the parent of the working dir
 
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
-
-12-file_type: prints the type of the fiile named iamfile
 
  
