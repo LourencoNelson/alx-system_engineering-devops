@@ -10,5 +10,8 @@ SCRIPT DESCRIPTION
 
 4-listmorefiles: display current dir contents, including hidden files task
 
+6-firstdirectory: creates a directory named my_first_directory
+
 10-back: changes the working dir to the previous one
+
 
