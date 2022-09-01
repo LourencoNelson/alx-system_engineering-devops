@@ -24,6 +24,8 @@ SCRIPT DESCRIPTION
 
 12-file_type: prints the type of the fiile named iamfile
 
+13-symbolic_link: create a smbolic link to /bin/ls named __ls__
+
 14-copy_html: copies all the HTML files from the curren dir o the parent of the working dir
 
 
