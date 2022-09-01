@@ -36,5 +36,5 @@ SCRIPT DESCRIPTION
 
 101-clean_emacs: deletes all files that end with ~
 
-
+102-tree: creates multiple dirs, welcome, welcome/to, welcome/to/school
 
