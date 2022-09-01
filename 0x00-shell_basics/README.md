@@ -8,4 +8,6 @@ SCRIPT DESCRIPTION
 
 3-listfiles: display current dir contents in long form
 
+4-listmorefiles: display current dir contents, including hidden files task
+
 
