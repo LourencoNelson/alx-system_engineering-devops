@@ -10,6 +10,8 @@ SCRIPT DESCRIPTION
 
 4-listmorefiles: display current dir contents, including hidden files task
 
+5-listfilesdigitonly: display current dir content in long format, numeracal user and group ID and hidden files
+
 6-firstdirectory: creates a directory named my_first_directory
 
 7-movethatfile: moves the file betty to my_first_directory
