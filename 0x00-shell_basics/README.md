@@ -22,4 +22,28 @@ SCRIPT DESCRIPTION
 
 11-lists: lists files in the current dir, parent of working dir and boot dir
 
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
+12-file_type: prints the type of the fiile named iamfile
+
  
