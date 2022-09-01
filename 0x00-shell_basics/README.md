@@ -34,3 +34,7 @@ SCRIPT DESCRIPTION
 100-lets_move: moves all files begginig with an uppercase letter to the dir /tmp/u
 
 
+101-clean_emacs: deletes all files that end with ~
+
+
+
