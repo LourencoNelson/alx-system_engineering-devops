@@ -16,6 +16,8 @@ SCRIPT DESCRIPTION
 
 8-firstdelete: delete the file betty
 
+9-firstdirdeletion: delete the directpry my_first_directory
+
 10-back: changes the working dir to the previous one
 
 
