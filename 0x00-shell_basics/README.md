@@ -10,4 +10,5 @@ SCRIPT DESCRIPTION
 
 4-listmorefiles: display current dir contents, including hidden files task
 
+10-back: changes the working dir to the previous one
 
