@@ -20,4 +20,6 @@ SCRIPT DESCRIPTION
 
 10-back: changes the working dir to the previous one
 
+11-lists: lists files in the current dir, parent of working dir and boot dir
 
+ 
