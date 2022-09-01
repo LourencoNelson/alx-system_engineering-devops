@@ -31,4 +31,6 @@ SCRIPT DESCRIPTION
 14-copy_html: copies all the HTML files from the curren dir o the parent of the working dir
 
 
- 
+100-lets_move: moves all files begginig with an uppercase letter to the dir /tmp/u
+
+
