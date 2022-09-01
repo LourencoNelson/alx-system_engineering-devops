@@ -14,6 +14,8 @@ SCRIPT DESCRIPTION
 
 7-movethatfile: moves the file betty to my_first_directory
 
+8-firstdelete: delete the file betty
+
 10-back: changes the working dir to the previous one
 
 
