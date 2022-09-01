@@ -12,6 +12,8 @@ SCRIPT DESCRIPTION
 
 6-firstdirectory: creates a directory named my_first_directory
 
+7-movethatfile: moves the file betty to my_first_directory
+
 10-back: changes the working dir to the previous one
 
 
