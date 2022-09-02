@@ -14,3 +14,8 @@ SCRIPT DESCRIPTION
 11-directory_permissions: add execution permission to all subdirectorys in the working directory
 12-directory_permission: creates a dir my_dir with 751 permission
 13-change_group: changes the group of the file hello to school
+
+100-change_owner_and_group: changes the owner to vicente and group owner to staff
+
+1011-symbolic_link_permission: changes the owner and group of _hello to vicent
+
