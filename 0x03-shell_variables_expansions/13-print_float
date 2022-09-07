@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$NUM.00\n"
+printf "$NUM\n"
