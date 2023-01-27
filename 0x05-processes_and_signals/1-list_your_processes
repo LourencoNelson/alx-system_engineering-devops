@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# set the output format to show process hierarchy
+PS_FORMAT="%p %r %y %x %c"
+
+# use ps to display all processes, for all users, including those which might not have a TTY
+ps -eo $PS_FORMAT --forest
