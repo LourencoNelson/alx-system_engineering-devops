@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#Listening Ports and Associated Programs
+
+
+echo "Listening Ports and Associated Programs:"
+echo "---------------------------------------"
+
+# Get list of listening sockets
+sockets=$(ss -lntu | awk 'NR>1 {print $4}')
+
+# Loop through each socket and get the PID and name of the associated program
+for socket in $sockets; do
+  pid=$(lsof -n -i4TCP:$socket | awk 'NR>1 {print $2}')
+  name=$(ps -p $pid -o comm=)
+  echo "$socket ($pid: $name)"
+done
+Listening Ports and Associated Programs:
