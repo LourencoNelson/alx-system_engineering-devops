@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Listen on port 98
+nc -l 98

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Get a list of all active network interfaces
+interfaces=$(ip addr | awk '/^[0-9]+:/ {print $2}' | tr -d ':')
+
+# Loop through each interface and get its IPv4 addresses
+for interface in $interfaces; do
+  ip_addresses=$(ip addr show $interface | awk '/inet / {print $2}' | cut -d/ -f1)
+  for ip_address in $ip_addresses; do
+    echo $ip_address
+  done
+done
+
