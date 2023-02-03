@@ -1,6 +1,5 @@
-#!/bin/bash
-
-#Listening Ports and Associated Programs
+#!/usr/bin/env bash
+# Listening Ports and Associated Programs
 
 
 echo "Listening Ports and Associated Programs:"
