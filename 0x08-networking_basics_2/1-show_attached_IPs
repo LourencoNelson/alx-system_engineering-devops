@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Bash script that displays all active IPv4 IPs on the machine it’s executed on
 # Get a list of all active network interfaces
 interfaces=$(ip addr | awk '/^[0-9]+:/ {print $2}' | tr -d ':')
 
