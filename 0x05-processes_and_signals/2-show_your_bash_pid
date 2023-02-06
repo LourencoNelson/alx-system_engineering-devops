@@ -1,10 +1,4 @@
-#!/bin/bash
-
-# set the output format to show process hierarchy
-PS_FORMAT="%p %r %y %x %c"
-
+#!/usr/bin/env bash
+# script that displays lines containing the bash word
 # shellcheck disable=SC2009
-# use ps to display all processes, for all users, including those which might not have a TTY
-# and filter the output to show only lines containing the word "bash"
-ps -eo $PS_FORMAT --forest | grep -i bash
-
+ps aux | grep bash
