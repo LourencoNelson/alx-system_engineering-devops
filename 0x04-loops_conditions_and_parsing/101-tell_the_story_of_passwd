@@ -5,7 +5,7 @@ file=/etc/passwd
 IFS=':'
 while read -r line
 do
-	fields=("$line")
+	fields=($line)
 
 	echo "The user ${fields[0]} is part of the ${fields[3]} gang, lives in ${fields[5]} and rides ${fields[6]}. ${fields[2]}'s place is protected by the passcode ${fields[1]}, more info about the user here: ${fields[4]}"
 
