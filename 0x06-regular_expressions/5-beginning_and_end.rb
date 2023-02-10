@@ -3,6 +3,6 @@
 
 input = ARGV[0]
 
-matches = input.scan(/h[a-zA-Z0-9]*n/)
+matches = input.scan(/h.n/)
 
 puts matches.join
