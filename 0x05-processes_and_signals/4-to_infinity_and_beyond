@@ -2,10 +2,6 @@
 #  script that displays To infinity and beyond indefinitely
 while :
 do
-	if [ "$EOF" ]
-	then
-		trap
-	fi
 	echo "To infinity and beyond"
 	sleep 2
 done
