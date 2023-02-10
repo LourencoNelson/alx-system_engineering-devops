@@ -3,7 +3,7 @@
 
 file=/etc/passwd
 IFS=':'
-while read -r line
+while read -r -a line
 do
 	fields=($line)
 
