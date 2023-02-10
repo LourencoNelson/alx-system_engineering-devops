@@ -3,7 +3,7 @@
 
 file=/etc/passwd
 
-while read line
+while read -r line
 do
 	username=$(echo "$line" | cut -d: -f1)
 	userid=$(echo "$line" | cut -d: -f3)
