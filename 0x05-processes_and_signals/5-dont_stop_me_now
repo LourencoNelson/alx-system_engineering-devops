@@ -3,4 +3,4 @@
 
 pid=$(ps aux | grep '4-to_infinity_and_beyond' | grep -v grep | awk '{print $2}')
 
-kill $pid
+kill "$pid"
