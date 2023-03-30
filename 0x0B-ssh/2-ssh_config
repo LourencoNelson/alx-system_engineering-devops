@@ -1,0 +1,5 @@
+Host 125396-web-01
+HostName 54.173.233.108
+User ssh
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
