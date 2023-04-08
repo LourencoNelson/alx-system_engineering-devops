@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# configurations
 
 get_record_info() {
 	local domain
