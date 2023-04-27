@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-# displays the content of a the current dir in list form
-for file in *; 
-do
-	echo "$file" | cut -d "-" -f 2
-done

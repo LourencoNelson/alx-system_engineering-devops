@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# connects to a sever using ssh
-ssh -i ~/.ssh/school ubuntu@54.173.233.108
